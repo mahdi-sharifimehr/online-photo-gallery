@@ -2,7 +2,7 @@
 An online photo gallery application with React Native and Redux
 
 ![App Demo](http://sharifimehr.com/wp-content/uploads/2021/11/soniq-min.gif)
-
++<img src="/demo/sample.gif?raw=true" width="200px">
 
 ## Getting Started
 
