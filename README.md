@@ -1,6 +1,8 @@
 # online-photo-gallery
 An online photo gallery application with React Native and Redux
 
+![App Demo](https://sharifimehr.com/wp-content/uploads/2021/11/demo.gif)
+
 ## Getting Started
 
 To get a local copy up and running follow these steps.
